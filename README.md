@@ -1,3 +1,3 @@
 # demo
 
-develop-new ブランチで作業中
+develop ブランチで作業中
